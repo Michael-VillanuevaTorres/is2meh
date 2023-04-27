@@ -7,10 +7,10 @@ Instalar node y npm
 Dentro de la carpeta instalar las dependencias
 </br>
 
-npm i vite
-npm i bootstrap
-npm i react-hook-form
-npm i react-router-dom
+npm i vite</br>
+npm i bootstrap</br>
+npm i react-hook-form</br>
+npm i react-router-dom</br>
 
 </br>
 
